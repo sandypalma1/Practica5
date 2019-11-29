@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica5</string>
+    <string name="opcionLogion">Login</string>
+    <string name="opcionReistrar">Registrar</string>
+    <string name="txtUser">Ingrese su Usuario</string>
+    <string name="txtPassword">Ingrese clave</string>
+    <string name="btnAutenticar">Autenticar</string>
+    <string name="txtNombre">Ingrese su Nombre</string>
+    <string name="txtApellido">Ingrese su Apellido</string>
+    <string name="txtclave">Ingrese clave</string>
+    <string name="txtCorreo">Ingrese su correo</string>
+    <string name="btnRegistrarse">Registrarse</string>
+</resources>
